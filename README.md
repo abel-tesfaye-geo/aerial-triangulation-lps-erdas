@@ -33,26 +33,6 @@ The study area is processed using one strip of three overlapping aerial photogra
 
 ---
 
-## Repository Structure
-
-
-📁 inputs/
-│   ├── gcp.txt           # 6 full ground control points (X, Y, Z)
-│   ├── camera_RMK_Top15/ # Camera calibration file
-│   └── flight_plan.tif   # Flight index map
-│
-
-📁 outputs/
-│   ├── DTM/
-│   │   └── terrain_dtm.pro        # Digital Terrain Model (TIN)
-│   ├── orthophotos/
-│   │   ├── ortho_n4094.img
-│   │   ├── ortho_n4093.img
-│   │   └── ortho_n4092.img
-│   └── mosaic/
-│       └── new_mos.img            # Final mosaicked orthophoto
-│
-
 ## Ground Control Points
 
 | GCP # | X (m) | Y (m) | Z (m) |
