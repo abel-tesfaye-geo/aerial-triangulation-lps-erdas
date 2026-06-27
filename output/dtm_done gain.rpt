@@ -1,0 +1,80 @@
+                           DTM Extraction Report
+                           Date Created: 06/04/26
+                           Time Created: 07:56:43
+
+
+DTM PROJECT INFORMATION
+
+    Block File Used: ortho_block.blk
+    Block File Location: c:/new_block/
+    DTM Correlation Time (seconds): 273
+    Points Per Second: 1094.037
+    DTM Generation Time (seconds): 12
+    Total Processing Time : 4 mins 45 secs
+
+    DTM Type: Terramodel TIN
+    DTM Name: c:/photogrammetry/dtm_done gain.pro
+    Number of Mass Points Extracted: 242573
+    Cell Width: 2.000 meters
+    Cell Height: 2.000 meters
+
+    Projection: UTM
+    Spheroid: Clarke 1880
+    Datum: Adindan (Ethiopia)
+    Horizontal Units: meters
+    Vertical Units: meters
+
+    Upper left corner of DTM Bounding Box: (483317.1399, 995216.2903)
+    Lower right corner of DTM Bounding Box: (484789.1788, 993731.1894)
+
+    Minimum Mass Point Elevation: 2307.6893
+    Maximum Mass Point Elevation: 2363.7958
+    Mean Mass Point Elevation: 2339.8354
+
+    Adaptive ATE 
+        Stop at pyramid: 0
+    Strategy Parameter Settings: 
+
+        Image Pair Name: 4092_4093
+            Region Description: Default Region
+            Name of Strategy Used: Default
+            List All of the Strategy Parameter Values Used: 
+                Search Size: 21 x 3
+                    Allow Adaptive Change: No
+                Correlation Size: 7 x 7
+                    Allow Adaptive Change: No
+                Coefficient Limit: 0.8000
+                    Allow Adaptive Change: No
+                Topographic Type: Rolling Hills
+                Object Type: Open Area
+                Use Image Band: 1
+                DTM Filtering: Low
+                Region elevation range: 2315.0000 to 2365.0000
+
+        Image Pair Name: 4093_4094
+            Region Description: Default Region
+            Name of Strategy Used: Default
+            List All of the Strategy Parameter Values Used: 
+                Search Size: 21 x 3
+                    Allow Adaptive Change: No
+                Correlation Size: 7 x 7
+                    Allow Adaptive Change: No
+                Coefficient Limit: 0.8000
+                    Allow Adaptive Change: No
+                Topographic Type: Rolling Hills
+                Object Type: Open Area
+                Use Image Band: 1
+                DTM Filtering: Low
+                Region elevation range: 2312.1688 to 2365.0000
+
+    Project elevation range: 2312.1688 to 2365.0000
+
+ACCURACY INFORMATION
+
+    General Mass Point Quality: 
+        Excellent % (1-0.85): 40.7391 %
+        Good % (0.85-0.70): 45.1711 %
+        Fair % (0.70-0.5): 14.0898 %
+        Isolated %: 0.0000 %
+        Suspicious %: 0.0000 %
+
